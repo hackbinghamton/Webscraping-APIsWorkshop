@@ -8,11 +8,11 @@ Today's workshop covers:
 1. [JSON](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/APIs/JSON.ipynb)
 2. [The Requests Library](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/APIs/Requests.ipynb)
 3. [APIs](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/APIs/APIs.ipynb)
-3. [Web Scraping](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/web-scraping-with-beautifulsoup/web-scraping-with-beautifulsoup.ipynb)
+3. [Web Scraping with BeautifulSoup](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/web-scraping-with-beautifulsoup/web-scraping-with-beautifulsoup.ipynb)
 
 ## Bug Bounties
 
-If you find a bug or mistake in our workshop, let an organizer know or [make a pull request](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/making_a_pull_request.md) fixing it! We'll be giving out special HackBU stickers to those who find bugs/mistakes.
+If you find a bug or mistake in our workshop, let an organizer know or [make a pull request](https://github.com/HackBinghamton/IntroToProgrammingWorkshop/blob/master/MakingAPullRequest.md) fixing it!
 
 ## Feedback
 
