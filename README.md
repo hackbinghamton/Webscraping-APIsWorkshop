@@ -4,6 +4,8 @@
 
 In this workshop, you'll learn how to work with data from the web! You'll use the `requests` library to get access to both APIs (for readily prepared data) and HTML webpages (for web scraping), and scrape the web with Beautiful Soup.
 
+For this workshop, you will need to have a basic understanding of Python. This workshop covers material for both beginners and Advanced python users. 
+
 Today's workshop covers:
 1. [JSON](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/APIs/JSON.ipynb)
 2. [The Requests Library](https://colab.research.google.com/github/HackBinghamton/Webscraping-APIsWorkshop/blob/master/APIs/Requests.ipynb)
